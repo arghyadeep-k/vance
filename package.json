@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -12,9 +12,11 @@
   },
   "keywords": [
     "vance",
-    "print"
+    "print",
+    "string",
+    "placeholder"
   ],
-  "author": "Arghyadeep",
+  "author": "Arghyadeep Kundu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/arghyadeep-k/vance/issues"
