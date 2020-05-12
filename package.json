@@ -1,5 +1,5 @@
 {
-  "name": "vance",
+  "name": "vanes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,18 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arghyadeep-k/vance.git"
+    "url": "git+https://github.com/arghyadeep-k/vanes.git"
   },
   "keywords": [
-    "vance",
+    "vanes",
     "print",
     "string",
-    "placeholder"
+    "placeholder",
+    "message",
+    "formatting"
   ],
   "author": "Arghyadeep Kundu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arghyadeep-k/vance/issues"
+    "url": "https://github.com/arghyadeep-k/vanes/issues"
   },
-  "homepage": "https://github.com/arghyadeep-k/vance#readme"
+  "homepage": "https://github.com/arghyadeep-k/vanes#readme"
 }
