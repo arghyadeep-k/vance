@@ -1,0 +1,23 @@
+{
+  "name": "vance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arghyadeep-k/vance.git"
+  },
+  "keywords": [
+    "vance",
+    "print"
+  ],
+  "author": "Arghyadeep",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arghyadeep-k/vance/issues"
+  },
+  "homepage": "https://github.com/arghyadeep-k/vance#readme"
+}
