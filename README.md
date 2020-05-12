@@ -11,5 +11,5 @@ let value = 'World';
 
 let result = vanes(str, {var: value});
 
-console.log(result) //Will output - Hello, World!
+console.log(result) //Output - Hello, World!
 ```
