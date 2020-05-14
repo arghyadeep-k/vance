@@ -39,7 +39,7 @@ console.log(result)
 
 - **value**: variable name/constant value that needs to replace the placeholder(key) in the string
 
-Multiple key-value pairs can be sent separatad by comma.
+Multiple key-value pairs can be sent separated by comma.
 
 ## License
 
