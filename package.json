@@ -1,6 +1,6 @@
 {
   "name": "vanes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helps in formatting the strings easily with placeholders. Comes in handy when you are importing the strings from another module.",
   "main": "index.js",
   "scripts": {
