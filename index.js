@@ -1,7 +1,6 @@
-module.exports = function vanes(str, varList) {
-    let data = null;
+module.exports = function vanes(str, varList) {    
     for(var x in varList) {    
-        data = str.replace('{' + x + '}', varList[x]);
+        str = str.replace('{' + x + '}', varList[x]);        
     }    
-    return data;
+    return str;
 }
