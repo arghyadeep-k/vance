@@ -1,5 +1,11 @@
 # Vanes : Format strings with placeholders (Node.js)
-![npm](https://img.shields.io/npm/v/vanes)      ![npm](https://img.shields.io/npm/dt/vanes)    ![NPM](https://img.shields.io/npm/l/vanes?color=blue)
+![npm](https://img.shields.io/npm/v/vanes)
+![npm bundle size](https://img.shields.io/bundlephobia/min/vanes)
+![Depfu](https://img.shields.io/depfu/arghyadeep-k/vanes)
+![Libraries.io SourceRank](https://img.shields.io/librariesio/sourcerank/npm/vanes)
+![npm](https://img.shields.io/npm/dt/vanes)
+![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/vanes)
+![NPM](https://img.shields.io/npm/l/vanes?color=blue)
 
 This package can help you format your strings easily with placeholders. Comes in handy when you are importing the strings from another module.
 
@@ -11,9 +17,22 @@ Using Vanes, you can place any keyword as your placeholder as long as you tie th
 And, voila! Vanes will return you a string with all the values replaced.
 
 ## Installation
-```
-npm install --save vanes
-```
+
+[![NPM](https://nodei.co/npm/vanes.png)](https://nodei.co/npm/vanes/)
+
+**Install from command line:**
+
+`npm install --save vanes`
+
+Or
+
+**Install via package.json:**
+
+Add the following to your *package.json* file under dependencies
+
+`"vanes": "1.0.2"`
+
+
 
 ## Basic Usage
 ```javascript
@@ -41,6 +60,21 @@ console.log(result)
 
 Multiple key-value pairs can be sent separated by comma.
 
+## Unit Testing
+
+Unit testing has been added as part of the latest release.
+To run the test case, download the package and run `npm test`.
+
 ## License
 
 Vanes is published under the MIT license. For more information, see the accompanying LICENSE file. 
+
+<br>
+
+---
+<br>
+
+### PS: 
+If you find this package useful, please [star](https://github.com/arghyadeep-k/vanes) the project on Github. 
+
+And, if you are willing to [buy me a coffee](https://ko-fi.com/arghyadeep), that would be awesome. :)
