@@ -1,5 +1,5 @@
 # Vanes : Format strings with placeholders (Node.js)
-![CI](https://github.com/arghyadeep-k/vanes/workflows/CI/badge.svg)
+![CI](https://github.com/arghyadeep-k/vanes/workflows/CI/badge.svg?branch=master)
 ![npm](https://img.shields.io/npm/v/vanes)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/vanes)
 ![Libraries.io SourceRank](https://img.shields.io/librariesio/sourcerank/npm/vanes)
