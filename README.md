@@ -1,10 +1,10 @@
 # Vanes : Format strings with placeholders (Node.js)
 ![npm](https://img.shields.io/npm/v/vanes)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/vanes)
-![Depfu](https://img.shields.io/depfu/arghyadeep-k/vanes)
 ![Libraries.io SourceRank](https://img.shields.io/librariesio/sourcerank/npm/vanes)
-![npm](https://img.shields.io/npm/dt/vanes)
+![Depfu](https://img.shields.io/depfu/arghyadeep-k/vanes)
 ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/vanes)
+![npm](https://img.shields.io/npm/dt/vanes)
 ![NPM](https://img.shields.io/npm/l/vanes?color=blue)
 
 This package can help you format your strings easily with placeholders. Comes in handy when you are importing the strings from another module.
