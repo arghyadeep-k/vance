@@ -9,7 +9,7 @@ on:
       - master
 
 jobs:
-  build:
+  TestAndScan:
     runs-on: ubuntu-latest
     steps:
       - id: codeCheckout
@@ -33,3 +33,5 @@ jobs:
       - id: sonarScan
         name: Code Quality Scan
         uses: SonarSource/sonarcloud-github-action@v1.4
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
