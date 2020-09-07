@@ -1,4 +1,5 @@
 # Vanes : Format strings with placeholders (Node.js)
+
 ![CI](https://github.com/arghyadeep-k/vanes/workflows/CI/badge.svg?branch=master)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=arghyadeep-k_vanes&metric=alert_status)](https://sonarcloud.io/dashboard?id=arghyadeep-k_vanes)
 ![npm](https://img.shields.io/npm/v/vanes)
