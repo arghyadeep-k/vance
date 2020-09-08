@@ -24,8 +24,12 @@ jobs:
 
       - id: dependenciesInstallation
         name: Dependencies Installation
-        run: npm ci
-             
+        run: npm install
+        
+      - id: testing
+        name: Testing
+        run: npm test
+      
       - id: sonarScan
         name: Code Quality Scan
         uses: SonarSource/sonarcloud-github-action@v1.4
