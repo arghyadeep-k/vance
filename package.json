@@ -1,5 +1,5 @@
 {
-  "name": "vanes",
+  "name": "@arghyadeep-k/vanes",
   "version": "1.0.1",
   "description": "Helps in formatting the strings easily with placeholders. Comes in handy when you are importing the strings from another module.",
   "main": "index.js",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/arghyadeep-k/vanes/issues"
   },
-  "homepage": "https://github.com/arghyadeep-k/vanes#readme"
+  "homepage": "https://github.com/arghyadeep-k/vanes#readme",
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  }
 }
