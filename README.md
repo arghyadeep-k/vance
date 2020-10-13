@@ -78,6 +78,6 @@ Vanes is published under the MIT license. For more information, see the accompan
 <br>
 
 ### PS: 
-If you find this package useful, please [star](https://github.com/arghyadeep-k/vanes) the project on Github. 
+If you find this package useful, please consider giving a [star](https://github.com/arghyadeep-k/vanes) to this project on Github. 
 
-And, if you are willing to [buy me a coffee](https://ko-fi.com/arghyadeep), that would be awesome. :)
+And, if you are willing to [buy me a coffee](https://www.buymeacoffee.com/arghyadeep), that would be awesome. :)

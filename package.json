@@ -4,7 +4,7 @@
   "description": "Helps in formatting the strings easily with placeholders. Comes in handy when you are importing the strings from another module.",
   "main": "index.js",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "jest --silent --coverage"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/arghyadeep-k/vanes/issues"
   },
-  "homepage": "https://github.com/arghyadeep-k/vanes#readme"
+  "homepage": "https://github.com/arghyadeep-k/vanes#readme",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
 }
