@@ -33,7 +33,7 @@ Or
 
 Add the following to your *package.json* file under dependencies
 
-`"vanes": "1.0.2"`
+`"vanes": "1.1.0"`
 
 
 
