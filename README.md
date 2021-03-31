@@ -6,7 +6,6 @@
 ![Libraries.io SourceRank](https://img.shields.io/librariesio/sourcerank/npm/vanes)
 ![Depfu](https://img.shields.io/depfu/arghyadeep-k/vanes)
 ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/vanes)
-![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/arghyadeep-k/vanes)
 ![npm](https://img.shields.io/npm/dt/vanes)
 ![NPM](https://img.shields.io/npm/l/vanes?color=blue)
 [![Ko-Fi](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/arghyadeep)
