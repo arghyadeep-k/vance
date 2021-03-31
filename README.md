@@ -6,9 +6,10 @@
 ![Libraries.io SourceRank](https://img.shields.io/librariesio/sourcerank/npm/vanes)
 ![Depfu](https://img.shields.io/depfu/arghyadeep-k/vanes)
 ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/vanes)
+![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/arghyadeep-k/vanes)
 ![npm](https://img.shields.io/npm/dt/vanes)
 ![NPM](https://img.shields.io/npm/l/vanes?color=blue)
-
+[![Ko-Fi](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/arghyadeep)
 
 This package can help you format your strings easily with placeholders. Comes in handy when you are importing the strings from another module.
 
@@ -80,4 +81,6 @@ Vanes is published under the MIT license. For more information, see the accompan
 ### PS: 
 If you find this package useful, please consider giving a [star](https://github.com/arghyadeep-k/vanes) to this project on Github. 
 
-And, if you are willing to [buy me a coffee](https://www.buymeacoffee.com/arghyadeep), that would be awesome. :)
+And, if you are willing to [buy me a coffee](https://ko-fi.com/arghyadeep), that would be awesome. :)
+
+<a href='https://ko-fi.com/arghyadeep' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
